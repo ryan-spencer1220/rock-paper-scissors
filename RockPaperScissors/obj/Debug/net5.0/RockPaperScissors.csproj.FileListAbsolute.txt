@@ -1,0 +1,15 @@
+/Users/macbookpro/RockPaperScissors.Solution/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.csproj.AssemblyReference.cache
+/Users/macbookpro/RockPaperScissors.Solution/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/RockPaperScissors.Solution/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.AssemblyInfoInputs.cache
+/Users/macbookpro/RockPaperScissors.Solution/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.AssemblyInfo.cs
+/Users/macbookpro/RockPaperScissors.Solution/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/macbookpro/RockPaperScissors.Solution/RockPaperScissors/bin/Debug/net5.0/RockPaperScissors.deps.json
+/Users/macbookpro/RockPaperScissors.Solution/RockPaperScissors/bin/Debug/net5.0/RockPaperScissors.dll
+/Users/macbookpro/RockPaperScissors.Solution/RockPaperScissors/bin/Debug/net5.0/ref/RockPaperScissors.dll
+/Users/macbookpro/RockPaperScissors.Solution/RockPaperScissors/bin/Debug/net5.0/RockPaperScissors.pdb
+/Users/macbookpro/RockPaperScissors.Solution/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.dll
+/Users/macbookpro/RockPaperScissors.Solution/RockPaperScissors/obj/Debug/net5.0/ref/RockPaperScissors.dll
+/Users/macbookpro/RockPaperScissors.Solution/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.pdb
+/Users/macbookpro/RockPaperScissors.Solution/RockPaperScissors/bin/Debug/net5.0/RockPaperScissors.runtimeconfig.json
+/Users/macbookpro/RockPaperScissors.Solution/RockPaperScissors/bin/Debug/net5.0/RockPaperScissors.runtimeconfig.dev.json
+/Users/macbookpro/RockPaperScissors.Solution/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.genruntimeconfig.cache
